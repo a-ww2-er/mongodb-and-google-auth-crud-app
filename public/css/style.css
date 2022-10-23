@@ -1,0 +1,22 @@
+p {
+    margin-top: 10px 0 !important;
+    /** we used important here to overwrite any settings for this element property from the marterialized framework*/
+}
+
+.login-container {
+    width: 400px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.fa-small {
+    font-size: 16px !important;
+}
+
+.btn-float {
+    float: left;
+    margin-right: 10px;
+}
+.img-small{
+    width:180px;
+}
